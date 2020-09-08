@@ -1,3 +1,5 @@
+![Alt text](/img/banner.png?raw=true "Banner descriptivo")
+
 # Prediccion de valores de calidad de enlace LQI - RSSI por medio de series temporales usando ML y DL
 _Proyecto dedicado al alojamiento de repositorios de automatización de generación, ejecución y prueba de rendimiento de modelos de ML y DL para la predicción valores LQI y RSSI en redes IEEE 802.15.4_
 
