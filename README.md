@@ -38,5 +38,6 @@ Para ejecutar los modelos es requisito contar con un entorno virtual o en inglé
 **Juan David Mantilla López**
 **juandmantilla@outlook.com**
 
-
-<img width="auto" height="auto" src="/img/marcaPersonal.png">
+<p align="center">
+    <img width="150" height="150" src="/img/marcaPersonal.png">
+</p>
