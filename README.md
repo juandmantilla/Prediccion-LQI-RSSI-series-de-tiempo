@@ -36,6 +36,7 @@ Para ejecutar los modelos es requisito contar con un entorno virtual o en inglé
 
 ## Autor ✒
 **Juan David Mantilla López**
+
 **juandmantilla@outlook.com**
 
 <p align="center">
