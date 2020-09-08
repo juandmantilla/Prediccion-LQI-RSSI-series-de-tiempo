@@ -34,5 +34,9 @@ Para ejecutar los modelos es requisito contar con un entorno virtual o en inglé
 * **Scikit-learn 0.23.2**
 
 
-## Autores ✒
-* **Juan David Mantilla López**
+## Autor ✒
+**Juan David Mantilla López**
+**juandmantilla@outlook.com**
+
+
+<img width="auto" height="auto" src="/img/marcaPersonal.png">
