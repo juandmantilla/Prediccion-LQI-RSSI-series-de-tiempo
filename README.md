@@ -8,12 +8,12 @@ _En los notebooks se encontrarán funciones que actúan para la lectura, pretrat
  
 ## ¿Cómo usar? 📃
 Para ejecutar los modelos es requisito contar con un entorno virtual o en inglés "enviroment" que contenga:
-* **Python 3.6.
-* **Matplotlib en su versión estable.
-* **Statsmodels (v0.12.0).
-* **Tensorflow 2.0 -Keras
-* **Scikit-learn 0.23.2
+* **Python 3.6.**
+* **Matplotlib en su versión estable.**
+* **Statsmodels (v0.12.0).**
+* **Tensorflow 2.0 -Keras**
+* **Scikit-learn 0.23.2**
 
 
 ## Autores ✒
-* ** Juan David Mantilla López
+* **Juan David Mantilla López**
