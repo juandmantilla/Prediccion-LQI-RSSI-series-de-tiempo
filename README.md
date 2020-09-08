@@ -39,5 +39,5 @@ Para ejecutar los modelos es requisito contar con un entorno virtual o en inglé
 **juandmantilla@outlook.com**
 
 <p align="center">
-    <img width="150" height="150" src="/img/marcaPersonal.png">
+    <img width="90" height="90" src="/img/marcaPersonal.png">
 </p>
