@@ -7,7 +7,7 @@ _En los notebooks se encontrarán funciones que actúan para la lectura, pretrat
 
  
 ## ¿Cómo usar? 📃
-Para ejecutar los modelos es requisito contar con un entorno virtual o en inglés "enviroment" que contenga:
+Para ejecutar los modelos es requisito contar con un entorno virtual o en inglés _"enviroment"_ que contenga:
 * **Python 3.6.**
 * **Matplotlib en su versión estable.**
 * **Statsmodels (v0.12.0).**
