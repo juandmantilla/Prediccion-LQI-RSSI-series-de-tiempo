@@ -5,3 +5,4 @@ Este proyecto es enfocado a la predicción de la calidad de enlace en redes IEEE
 
 En los notebooks se encontrarán funciones que actúan para la lectura, pretratamiento, generación de modelos, prueba y generación de errores de cada modelo. A su vez la implementación tiene la capacidad de automatizar procesos haciendo llamadas entre funciones para que, a partir de un conjunto de observaciones, se ejecuten los procedimientos anteriormente mencionados y se generen un reporte al final de la ejecucción de cada modelo.
 
+ 
