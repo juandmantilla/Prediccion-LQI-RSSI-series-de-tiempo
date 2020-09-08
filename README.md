@@ -5,8 +5,24 @@ _Este proyecto es enfocado a la predicción de la calidad de enlace en redes IEE
 
 _En los notebooks se encontrarán funciones que actúan para la lectura, pretratamiento, generación de modelos, prueba y generación de errores de cada modelo. A su vez la implementación tiene la capacidad de automatizar procesos haciendo llamadas entre funciones para que, a partir de un conjunto de observaciones de una serie temporal univariante, se ejecuten los procedimientos anteriormente mencionados y se generen un reporte al final de la ejecucción de cada modelo._
 
- 
 ## ¿Cómo usar? 📃
+Para ejecutar los modelos es necesario descargar el _notebook_ **Experimentos**. Una vez descargado y montado en el entorno de programación _Jupyter Notebook_ se debe redigir a la celda _**Ejecición de modelo**_ y seguido por la celda _*Distribución Original*_. La celda tiene la siguiente forma:
+
+```
+#Variables de entrada
+path = "/content/drive/My Drive/PROYECTO -- EXPERIMENTOS/dataOriginal.csv"
+nodeId = 1
+SrcNode = 2
+indicador = "LqiValue"
+numNeuronas = 32
+epocas = 32
+    
+ejecutarModelos(False, False, path, nodeId, SrcNode, indicador, numNeuronas, epocas)
+```
+
+
+
+## Recursos 🛠
 Para ejecutar los modelos es requisito contar con un entorno virtual o en inglés _"enviroment"_ que contenga:
 * **Python 3.6.**
 * **Matplotlib en su versión estable.**
