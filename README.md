@@ -34,7 +34,7 @@ Para ejecutar los modelos es requisito contar con un entorno virtual o en inglé
 * **Scikit-learn 0.23.2**
 
 ## Documentación
-Puede encontrar la documentación de estos modelos a través del siguiente [enlace](/docs/Documentacion modelos.pdf) y los artículos referenciados en [documentos](/docs)
+Puede encontrar la documentación de estos modelos a través del siguiente [enlace](/docs/Documentacion.pdf) y los artículos referenciados en [documentos](/docs)
 
 ## Autor 
 **Juan David Mantilla López**
